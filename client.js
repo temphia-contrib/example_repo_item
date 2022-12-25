@@ -3,5 +3,5 @@ const RegisterPlugFactory = window["RegisterPlugFactory"] || function (opts) {
 };
 
 RegisterPlugFactory((opts) => {
-    opts.target.innerHTML = `Hello world`;
+    opts.target.innerHTML = `Hello world @ example_repo_item`;
 })
