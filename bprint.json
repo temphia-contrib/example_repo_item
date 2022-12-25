@@ -1,1 +1,7 @@
-{}
+{
+  "name": "Example Repo Item",
+  "slug": "exr1",
+  "type": "plug",
+  "description": "This is example repo item with build file",
+  "files": ["client.js", "server.js"]
+}
