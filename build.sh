@@ -1,7 +1,7 @@
 #!/usr/bin/sh
 
 echo "Pretend like we are building something"
-sleep 10
+sleep 2
 
 cp bprint.json output/index.json
 cp server.js output/server.js
